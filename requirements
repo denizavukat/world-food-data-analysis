@@ -4,3 +4,8 @@ matplotlib
 pycountry
 numpy
 jupyter
+
+# Optional dependencies for additional functionality
+
+seaborn  # For enhanced data visualization
+tqdm  # For progress bars
