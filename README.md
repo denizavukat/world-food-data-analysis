@@ -4,11 +4,7 @@
 ## Overview
 This project explores global food and feed production with an emphasis on analyzing environmental impacts, production trends, and predicting emissions using machine learning models. Our aim is to understand global food production patterns, categorize countries based on production capabilities, and predict emissions associated with food production.
 
-## Authors
-- Sena Deniz Avukat
-- Yuqian Gao
-- Krisztina Rostás
-- Tapio Uzal
+
 
 ## Project Objectives
 1. **Clustering Countries Based on Food Production and Geographical Location**: Identify similarities between countries regarding their production capabilities and geographical locations.
