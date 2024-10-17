@@ -64,11 +64,7 @@ This project explores global food and feed production with an emphasis on analyz
     ```bash
     pip install -r requirements.txtResults
 
-## Usage
 
-* Run the Jupyter notebooks in the notebooks/ directory to explore data analysis and machine learning modeling.
-
-* Modify the scripts in src/ to try different clustering and regression techniques.
 
 ## Results
 
