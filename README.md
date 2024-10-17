@@ -45,7 +45,6 @@ This project explores global food and feed production with an emphasis on analyz
 1. Clone the repository:
 
    ```bash
-
    git clone https://github.com/denizavukat/World-Food-Feed-Production.git
 
 
@@ -55,18 +54,15 @@ This project explores global food and feed production with an emphasis on analyz
 2. Create a virtual environment and activate it:
 
     ```bash
-
-python -m venv env
-
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
 
 
 
 3. Install the required packages:
 
     ```bash
-
-pip install -r requirements.txtResults
+    pip install -r requirements.txtResults
 
 ## Usage
 
