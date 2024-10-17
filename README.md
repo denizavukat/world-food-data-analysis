@@ -39,27 +39,34 @@ This project explores global food and feed production with an emphasis on analyz
 - **Clustering Algorithms**: K-means
 - **Regression Models**: RandomForest, DecisionTree, AdaBoost, Linear Regression
 
-## Project Structure
-- `data/`: Contains raw and cleaned datasets.
-- `notebooks/`: Jupyter notebooks used for exploratory data analysis and modeling.
-- `src/`: Python scripts for data cleaning, analysis, and modeling.
-- `results/`: Visualizations and clustering results.
-- `README.md`: Project overview and instructions.
+
 
 ## Installation
 1. Clone the repository:
+
    ```bash
+
    git clone https://github.com/denizavukat/World-Food-Feed-Production.git
 
 
+
+
+
 2. Create a virtual environment and activate it:
+
     ```bash
+
 python -m venv env
+
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 
+
+
 3. Install the required packages:
+
     ```bash
-pip install -r requirements.txt
+
+pip install -r requirements.txtResults
 
 ## Usage
 
